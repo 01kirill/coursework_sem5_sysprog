@@ -1,0 +1,1 @@
+\Psi(r) = \Psi_0(r) + \frac{1}{2\pi} \sum_{n=0}^{\infty} \left[ \int_{k_n}^{\infty} \frac{\exp(-\mathrm{i}k r)}{k^2 - k_n^2} \frac{\mathrm{d}^{n}r'}{\mathrm{d}\phi^n} \left|V(r') \Psi(r')\right| \mathrm{d}k \right]

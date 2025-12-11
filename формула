@@ -1,0 +1,1 @@
+\psi(x, t) = \lim_{\Delta t \to 0} \frac{1}{\sqrt{2\pi \sigma^2}} \cdot \sum_{n=0}^{\infty} \left| \frac{1}{n!} \int_{-\infty}^{\infty} \frac{d^{n}}{d \xi^{n}} \left( e^{-i \omega_n t} \psi_n(\xi)\right) e^{-\frac{x^2}{2\sigma^2}}d\xi \right|^{2}
